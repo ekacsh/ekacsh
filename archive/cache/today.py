@@ -2,7 +2,7 @@ import datetime
 from dateutil import relativedelta
 import requests
 import os
-from lxml import etree
+from lxml.etree import etree
 import time
 import hashlib
 
