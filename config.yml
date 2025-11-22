@@ -1,0 +1,26 @@
+OS: Windows 11, Linux
+Host: "-"
+Kernel: "-"
+IDE: 
+  - VS Code
+  - Vim
+Languages:
+  Programming:
+    - Python
+    - Typescript
+    - Golang
+    - Rust
+  Speaking:
+    - Portuguese
+    - English
+    - German
+Hobbies:
+  - Homelab
+  - Programming
+  - Reading
+  - Gaming
+Contacts:
+  Emails:
+    Personal: "[REDACTED]"
+  LinkedIn: pabolo-pires
+  Discord: ekac

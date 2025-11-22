@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1045px" height="530px" font-size="16px">
-<style>
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1045px" height="530px" font-size="16px">
+<ns0:defs>
+<ns0:style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
 font-family: 'ConsolasFallback';
@@ -8,59 +9,59 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
+.label {fill: #ffa657;}
 .value {fill: #a5d6ff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
-</style>
-<rect width="1045px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="70" >      @@@@@@@@@@@@@@@@@@@@@@@@                </tspan>
-<tspan x="15" y="90" >      @@                    @@@@              </tspan>
-<tspan x="15" y="110">      @@         __   _ __  @@  @@            </tspan>
-<tspan x="15" y="130">      @@        / /  / )\ \ @@   @@@          </tspan>
-<tspan x="15" y="150">      @@       ( (  / /  ) )@@    @@@@        </tspan>
-<tspan x="15" y="170">      @@        \_\(_/  /_/ @@@@@@@@@@        </tspan>
-<tspan x="15" y="190">      @@                            @@        </tspan>
-<tspan x="15" y="210">      @@                            @@        </tspan>
-<tspan x="15" y="230">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </tspan>
-<tspan x="15" y="250">  @@@     ____    _    __  _ _____     @@@    </tspan>
-<tspan x="15" y="270">  @@     |___ \  / \   \ \| |____ |     @@    </tspan>
-<tspan x="15" y="290">  @@         | |/ _ \   \ ` | |_  |     @@    </tspan>
-<tspan x="15" y="310">  @@      ___| / ___ \  / . |___| |     @@    </tspan>
-<tspan x="15" y="330">  @@     |____/_/   \_\/_/|_|_____|     @@    </tspan>
-<tspan x="15" y="350">  @@                                    @@    </tspan>
-<tspan x="15" y="370">  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
-<tspan x="15" y="390">      @@                            @@        </tspan>
-<tspan x="15" y="410">      @@                            @@        </tspan>
-<tspan x="15" y="430">      @@                            @@        </tspan>
-<tspan x="15" y="450">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        </tspan>
-</text>
-<text x="450" y="30" fill="#c9d1d9">
-<tspan x="450" y="30">me@home</tspan> -————————————————————————————————————————————————-—-
-<tspan x="450" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................................................ </tspan><tspan class="value" id="age_data">-</tspan>
-<tspan x="450" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................................. </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">.</tspan>
-<tspan x="450" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................................... </tspan><tspan class="value">.</tspan>
-<tspan x="450" y="150" class="cc">. </tspan>
-<tspan x="450" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>-<tspan class="key">Programming</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>-<tspan class="key">Computer</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>-<tspan class="key">Real</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="230" class="cc">. </tspan>
-<tspan x="450" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>-<tspan class="key">Software</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>-<tspan class="key">Hardware</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="450" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>-<tspan class="key">Personal</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>-<tspan class="key">Personal</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>-<tspan class="key">Work</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">-</tspan>
-<tspan x="450" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="450" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">-</tspan> {<tspan class="key">Contributed</tspan>:   <tspan class="value" id="contrib_data">-</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">-</tspan>
-<tspan x="450" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ..................... </tspan><tspan class="value" id="commit_data">-</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">-</tspan>
-<tspan x="450" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">....... </tspan><tspan class="value" id="loc_data">-</tspan> (      <tspan class="addColor" id="loc_add">- </tspan><tspan class="addColor">++</tspan>,     <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">- </tspan><tspan class="delColor">--</tspan> )
-</text>
-</svg>
+</ns0:style>
+</ns0:defs>
+<ns0:rect width="1045px" height="530px" fill="#161b22" rx="15" />
+<ns0:text x="15" y="70" fill="#c9d1d9" class="ascii">
+<ns0:tspan x="15">      @@@@@@@@@@@@@@@@@@@@@@@@                </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@                    @@@@              </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@         __   _ __  @@  @@            </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@        / /  / )\ \ @@   @@@          </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@       ( (  / /  ) )@@    @@@@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@        \_\(_/  /_/ @@@@@@@@@@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@                            @@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@                            @@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@     </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@@     ____    _    __  _ _____     @@@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@     |___ \  / \   \ \| |____ |     @@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@         | |/ _ \   \ ` | |_  |     @@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@      ___| / ___ \  / . |___| |     @@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@     |____/_/   \_\/_/|_|_____|     @@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@                                    @@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@                            @@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@                            @@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@                            @@        </ns0:tspan>
+<ns0:tspan x="15" dy="20">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        </ns0:tspan>
+</ns0:text>
+<ns0:text x="450" y="50" fill="#c9d1d9">
+<ns0:tspan x="450" dy="0">ekac@home</ns0:tspan> -————————————————————————————————————————————————-—-
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">OS</ns0:tspan>:<ns0:tspan id="prefix_os" class="cc"> .................................... </ns0:tspan><ns0:tspan id="os" class="value">Windows 11, Linux</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Uptime</ns0:tspan>:<ns0:tspan id="prefix_uptime" class="cc"> ................................................ </ns0:tspan><ns0:tspan id="uptime" class="value">-</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Host</ns0:tspan>:<ns0:tspan id="prefix_host" class="cc"> .................................................. </ns0:tspan><ns0:tspan id="host" class="value">-</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Kernel</ns0:tspan>:<ns0:tspan id="prefix_kernel" class="cc"> ................................................ </ns0:tspan><ns0:tspan id="kernel" class="value">-</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">IDE</ns0:tspan>:<ns0:tspan id="prefix_ide" class="cc"> ........................................ </ns0:tspan><ns0:tspan id="ide" class="value">VS Code, Vim</ns0:tspan>
+
+
+<ns0:tspan x="450" dy="40" class="cc">. </ns0:tspan><ns0:tspan class="label">Languages</ns0:tspan>.<ns0:tspan class="label">Programming</ns0:tspan>:<ns0:tspan id="prefix_lang_prog" class="cc"> .. </ns0:tspan><ns0:tspan id="lang_prog" class="value">Python, Typescript, Golang, Rust</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Languages</ns0:tspan>.<ns0:tspan class="label">Speaking</ns0:tspan>:<ns0:tspan id="prefix_lang_spk" class="cc"> .......... </ns0:tspan><ns0:tspan id="lang_spk" class="value">Portuguese, English, German</ns0:tspan>
+<ns0:tspan x="450" dy="40" class="cc">. </ns0:tspan><ns0:tspan class="label">Hobbies</ns0:tspan>:<ns0:tspan id="prefix_hobbies" class="cc"> ........... </ns0:tspan><ns0:tspan id="hobbies" class="value">Homelab, Programming, Reading, Gaming</ns0:tspan>
+
+
+<ns0:tspan x="450" dy="40">- Contact</ns0:tspan> -——————————————————————————————————————————————-—-
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Email</ns0:tspan>.<ns0:tspan class="label">Personal</ns0:tspan>:<ns0:tspan id="prefix_email_personal" class="cc"> ............................... </ns0:tspan><ns0:tspan id="email_personal" class="value">[REDACTED]</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">LinkedIn</ns0:tspan>:<ns0:tspan id="prefix_linkedin" class="cc"> ................................... </ns0:tspan><ns0:tspan id="linkedin" class="value">pabolo-pires</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Discord</ns0:tspan>:<ns0:tspan id="prefix_discord" class="cc"> ............................................ </ns0:tspan><ns0:tspan id="discord" class="value">ekac</ns0:tspan>
+
+
+<ns0:tspan x="450" dy="40">- GitHub Stats</ns0:tspan> -—————————————————————————————————————————-—-<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Repos</ns0:tspan>:<ns0:tspan id="prefix_repos" class="cc"> ..... </ns0:tspan><ns0:tspan id="repos" class="value">-</ns0:tspan> {<ns0:tspan class="label">Contributed</ns0:tspan>:   <ns0:tspan class="value" id="contrib">-</ns0:tspan>} | <ns0:tspan class="label">Stars</ns0:tspan>:<ns0:tspan class="cc" id="prefix_stars"> ............. </ns0:tspan><ns0:tspan class="value" id="stars">-</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Commmits</ns0:tspan>:<ns0:tspan id="prefix_commits" class="cc"> ..................... </ns0:tspan><ns0:tspan id="commits" class="value">-</ns0:tspan> | <ns0:tspan class="label">Followers</ns0:tspan>:<ns0:tspan id="prefix_followers" class="cc"> ......... </ns0:tspan><ns0:tspan id="followers" class="value">-</ns0:tspan>
+<ns0:tspan x="450" dy="20" class="cc">. </ns0:tspan><ns0:tspan class="label">Lines of Code on GitHub</ns0:tspan>:<ns0:tspan id="prefix_loc" class="cc">....... </ns0:tspan><ns0:tspan id="loc" class="value">-</ns0:tspan> (<ns0:tspan id="prefix_loc_add">      </ns0:tspan><ns0:tspan id="loc_add" class="addColor">-</ns0:tspan><ns0:tspan class="addColor"> ++</ns0:tspan>, <ns0:tspan id="prefix_loc_del">     </ns0:tspan><ns0:tspan id="loc_del" class="delColor">-</ns0:tspan><ns0:tspan class="delColor"> --</ns0:tspan> )
+</ns0:text>
+</ns0:svg>
